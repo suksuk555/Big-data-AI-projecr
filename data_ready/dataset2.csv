@@ -1,0 +1,13 @@
+﻿Gender,Budget,FreeTime,TimeAtHome,Living,PreferQuietPet,Allergies,PetChoice
+Male,Less than 1000,3,2,House,Yes,Yes,Fish
+Male,Greater than 3000,10,24,House,No,No,Dog
+Male,Less than 1000,1,12,House,No,No,Cat
+Female,Greater than 3000,4,2,Condo,Yes,No,Dog
+Female,Between 1000 and 3000,1,9,House,Yes,Yes,Snake
+Female,Less than 1000,0,0,Apartment,No,Yes,No pet
+Male,Between 1000 and 3000,6,10,House,Yes,No,Snake
+Male,Greater than 3000,2,2,House,Yes,Yes,Hamster
+Male,Less than 1000,8,8,Apartment,Yes,No,Fish
+Male,Greater than 3000,26,27,House,No,Yes,No pet
+Male,Between 1000 and 3000,8,16,House,Yes,Yes,No pet
+Female,Greater than 3000,3,12,Condo,Yes,No,Cat
